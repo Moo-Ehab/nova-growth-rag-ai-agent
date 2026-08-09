@@ -237,7 +237,7 @@ The knowledge base can be updated without retraining the underlying language mod
 
 ### Telegram Interface
 
-![Telegram Demo](screenshots/telegram-demo.png)
+![Telegram Bot](screenshots/telegram-Bot.png)
 
 ---
 
