@@ -289,7 +289,7 @@ No real customer data or private company credentials are included in this reposi
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mohamed Ehab**
 
 Automation & AI Systems
 
